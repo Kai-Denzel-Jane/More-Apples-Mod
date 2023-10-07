@@ -1,0 +1,13 @@
+{
+  "item.more_apples.iron_apple": "Iron Apple",
+
+  "item.more_apples.enchanted_golden_apple_stage_1": "Enchanted Golden Apple Stage 1",
+  "item.more_apples.enchanted_golden_apple_stage_2": "Enchanted Golden Apple Stage 2",
+  "item.more_apples.enchanted_golden_apple_stage_3": "Enchanted Golden Apple Stage 3",
+
+  "block.more_apples.apple_leaves": "Apple Leaves",
+  "block.more_apples.apple_sapling": "Apple Sapling",
+
+  "itemgroup.more_apples": "More Apples"
+
+}
