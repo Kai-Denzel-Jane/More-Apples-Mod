@@ -20,6 +20,7 @@ public class ModItemGroups {
                         entries.add(ModItems.ENCHANTED_GOLDEN_APPLE_STAGE_1);
                         entries.add(ModItems.ENCHANTED_GOLDEN_APPLE_STAGE_2);
                         entries.add(ModItems.ENCHANTED_GOLDEN_APPLE_STAGE_3);
+                        entries.add(ModItems.DIAMOND_APPLE);
                         entries.add(ModBlocks.APPLE_LEAVES);
                         entries.add(ModBlocks.APPLE_SAPLING);
                     }).build());

@@ -19,6 +19,9 @@ public class ModItems {
     public static final Item ENCHANTED_GOLDEN_APPLE_STAGE_3 = registerItem("enchanted_golden_apple_stage_3",
             new Item(new FabricItemSettings()));
 
+    public static final Item DIAMOND_APPLE = registerItem("diamond_apple",
+            new Item(new FabricItemSettings().food(ModFoodComponents.DIAMOND_APPLE)));
+
     private static Item registerItem(String name, Item item) {
         return Registry.register(Registries.ITEM, new Identifier(MoreApples.MOD_ID, name), item);
     }
